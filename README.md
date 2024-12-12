@@ -59,5 +59,5 @@ This project is licensed under the **MIT License**, which means you are free to 
 ## Contact Information
 
 If you have any questions about this project, feel free to reach out:
-- **Email**: [example@example.com](mailto:example@example.com)
-- **GitHub**: [https://github.com/freecodecamp](https://github.com/freecodecamp)
+- **Email**: [recruit.ishita.singh@gmail.com](mailto:recruit.ishita.singh@gmail.com)
+- **GitHub**: [https://github.com/issue31](https://github.com/issue31)
